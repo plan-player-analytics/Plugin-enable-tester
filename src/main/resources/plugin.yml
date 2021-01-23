@@ -1,0 +1,5 @@
+name: Plet
+author: Rsl1122
+main: net.playeranalytics.plet.BukkitBootstrap
+version: 1.0
+api-version: 1.13

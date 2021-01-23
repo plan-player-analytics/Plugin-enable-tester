@@ -1,0 +1,4 @@
+name: Plet
+author: Rsl1122
+main: net.playeranalytics.plet.BungeeBootstrap
+version: "1.0"
